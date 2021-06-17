@@ -14,7 +14,7 @@ I am a 3rd year software engineering student.
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Kotlin](https://img.icons8.com/color/30/kotlin.png)![Flutter](https://img.icons8.com/color/30/flutter.png)
 
 </details>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir.mehmetalidemir)
 
 :computer: Made with :heart: by **mehmetalidemir** 
 
