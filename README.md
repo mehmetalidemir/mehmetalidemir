@@ -19,35 +19,9 @@ I am a 3rd year software engineering student.
 <details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3095](https://github.com/24pullrequests/24pullrequests/issues/3095) in [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests)
-2. ❗️ Opened issue [#9](https://github.com/mehmetalidemir/fork-corner/issues/9) in [mehmetalidemir/fork-corner](https://github.com/mehmetalidemir/fork-corner)
-3. ❗️ Opened issue [#8](https://github.com/mehmetalidemir/fork-corner/issues/8) in [mehmetalidemir/fork-corner](https://github.com/mehmetalidemir/fork-corner)
-4. ❗️ Opened issue [#3095](https://github.com/24pullrequests/24pullrequests/issues/3095) in [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests)
-5. 🗣 Commented on [#82](https://github.com/mehmetalidemir/vscode-stories/issues/82) in [mehmetalidemir/vscode-stories](https://github.com/mehmetalidemir/vscode-stories)
-<!--END_SECTION:activity-->
 
-</details>
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=mehmetalidemir)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![mehmetalidemir Github Stats](https://readme-stats.mehmetalidemir.com/api?usernamemehmetalidemir&show_icons=true&count_private=true)](https://github.com/mehmetalidemir/github-readme-stats) [![Top Language](https://readme-stats.mehmetalidemir.com/api/top-langs?username=mehmetalidemir&layout=compact)](https://github.com/mehmetalidemir/github-readme-stats)
-
-</details>
-
-<!-- markdownlint-enable MD033 -->
-
----
-
-:computer: Made with :heart: by **mehmetalidemira** with **YHWH** :pray:
+:computer: Made with :heart: by **mehmetalidemir** :pray:
 
 [personal website]: https://mehmetalidemir.ml
 [twitter]: https://twitter.com/wehmetalidemir
