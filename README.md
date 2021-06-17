@@ -20,8 +20,6 @@ I am a 3rd year software engineering student.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
 
-:computer: Made with :heart: by **mehmetalidemir** 
-
 [personal website]: https://mehmetalidemir.ml
 [twitter]: https://twitter.com/wehmetalidemir
 [instagram]: https://instagram.com/mehmetali_demir
