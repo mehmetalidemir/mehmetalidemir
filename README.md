@@ -1,4 +1,4 @@
-# Hi, I'm Mehmet Ali Demir (:coffee::computer::bulb::heart:)
+# Hi, I'm Mehmet Ali Demir (:coffee::computer::heart:)
 
 I am a 3rd year software engineering student.
 
