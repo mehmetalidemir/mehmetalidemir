@@ -4,11 +4,8 @@ I am a 3rd year software engineering student.
 
  [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wehmetalidemir) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/UCKLI_cuD7AFZKnWRNeTM5BA) 
 
-- :muscle: Currently working as a freelance developer.
-- :gift_heart: Author of multiple open source projects.
+- :muscle: I am intereted in Mobile App Development.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:mehmetalidemir99mad@gmail.com) please.
-- :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/mehmetalidemir)!
-- :trophy: 2020 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
 
