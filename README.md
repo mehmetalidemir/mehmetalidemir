@@ -4,6 +4,8 @@ I am a 3rd year software engineering student.
  
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir) 
  [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKLI_cuD7AFZKnWRNeTM5BA) 
+ [![Website](https://img.shields.io/badge/instagrame-%23FF0000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://mehmetalidemir.ml/) 
+ 
 
 - :muscle: I am intereted in Mobile App Development.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:mehmetalidemir99mad@gmail.com) please.
