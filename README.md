@@ -4,7 +4,7 @@ I am a 3rd year software engineering student.
  
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir) 
  [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKLI_cuD7AFZKnWRNeTM5BA) 
- [![Website](https://img.shields.io/badge/instagram-%23bb3283.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://mehmetalidemir.ml/) 
+ [![Instagram](https://img.shields.io/badge/instagram-%23bb3283.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer_camp/) 
  
 
 - :muscle: I am intereted in Mobile App Development.
