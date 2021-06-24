@@ -8,7 +8,6 @@ I am a 3rd year software engineering student.
  
 
 - :muscle: I am intereted in Mobile App Development.
-- :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:mehmetalidemir99mad@gmail.com) please.
 - :dart: Wasting my time to save other people's time.
 
 
