@@ -8,7 +8,7 @@ I am a 3rd year software engineering student.
  
 
 - :muscle: I am intereted in Mobile App Development.
-- :dart: Wasting my time to save other people's time.
+
 
 
 ## :wrench: Technologies
