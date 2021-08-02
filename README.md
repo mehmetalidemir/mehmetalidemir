@@ -17,7 +17,7 @@ I am a 3rd year software engineering student.
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalidemir&layout=compact&theme=merko)](https://github.com/mehmetalidemir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalidemir&layout=compact)](https://github.com/mehmetalidemir/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
 
