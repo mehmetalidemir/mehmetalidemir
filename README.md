@@ -15,7 +15,11 @@ I am a 4th year software engineering student.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
 
+# My App on Google Play Store
 
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.wdemir.valorantr"> 
+<img src="https://i.hizliresim.com/liqw38c.png" , width="400px" height="400px"/>
+</a>
 
 
 [personal website]: https://mehmetalidemir.ml
