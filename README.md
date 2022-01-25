@@ -7,8 +7,6 @@ I am a 4th year software engineering student.
  [![Instagram](https://img.shields.io/badge/instagram-%23bb3283.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer_camp/) 
  
 
-- :muscle: I am intereted in Mobile App Development.
-
 
 </details>
 
