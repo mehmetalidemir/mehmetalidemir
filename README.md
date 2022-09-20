@@ -16,7 +16,7 @@ I am a 4th year software engineering student.
 # My App on Google Play Store
 
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wdemir.valorantr"> 
-<img src="https://i.imgur.com/WKADDdH.jpg" , width="400px" height="400px"/>
+<img src="https://i.imgur.com/WKADDdH.jpg" , width="800px" height="400px"/>
 </a>
 
 
