@@ -26,7 +26,7 @@ I am a 4th year software engineering student.
 
 <h5> Useful Apps </h5>
 </a>
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.wdemir.usefulappsr"> 
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.wdemir.usefulapps"> 
 <img target="_blank" src="https://play-lh.googleusercontent.com/CUiNC_2juHVpq_6kRL5fcsIZuyb0VM40uUS9iPRM0ONC5VAWSGV3SPxjLIny2BVjpUU=w480-h960-rw" , width="120px" height="120px" target="_blank"/>
 </a>
 
