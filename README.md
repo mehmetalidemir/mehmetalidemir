@@ -13,12 +13,18 @@ I am a 4th year software engineering student.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
 
-# My Apps on Google Play Store
+# My Apps
 
-<h5> Valo Crosshair </h5>
+<h5> Valo Crosshair (Android) </h5>
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wdemir.valorantr"> 
 <img target="_blank" src="https://play-lh.googleusercontent.com/7Yq8I9ppBz8CbZGq83w0j5-MNq19IdnWK6eEwkShcq7LRp_beACwxnXQ_744hXTnAbjK=w480-h960-rw" , width="120px" height="120px" target="_blank"/>
 </a>
+
+<h5> Valo Crosshair Pro (iOS) </h5>
+<a target="_blank" href="https://apps.apple.com/us/app/valo-crosshair-pro/id1631537415"> 
+<img target="_blank" src="https://i.imgur.com/uLP6Qrm.jpg" , width="120px" height="120px" target="_blank"/>
+</a>
+
 
 <h5> Borderly </h5>
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gopi.wdemir_border"> 
