@@ -1,10 +1,12 @@
 # Hi, I'm Mehmet Ali Demir (:coffee::computer::rocket:)
 
-I am a 4th year software engineering student.
- 
+
+   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mehmetalidev?style=social">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKLI_cuD7AFZKnWRNeTM5BA?style=social">
+  
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir) 
- [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKLI_cuD7AFZKnWRNeTM5BA) 
- [![Instagram](https://img.shields.io/badge/instagram-%23bb3283.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developer_camp/) 
+ 
+
  
 
 
