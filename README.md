@@ -18,7 +18,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
 
-# My Apps
+# Apps
 
 <table>
   <tr>
