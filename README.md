@@ -1,6 +1,6 @@
 # Hi, I'm Mehmet Ali Demir (:coffee::computer::rocket:)
 
-
+🌱 I’m currently learning Swift
    
    <a href="https://www.twitter.com/mehmetalidev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
