@@ -56,15 +56,12 @@ src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-t
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mehmetalidemir&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/wdemir" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/mehmetalidemir" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
