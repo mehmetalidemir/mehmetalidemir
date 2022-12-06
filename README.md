@@ -1,7 +1,45 @@
 # Hi, I'm Mehmet Ali Demir (:coffee::computer::rocket:)
 
-🌱 I’m currently learning Swift
+
+
+ 
+
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
    
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
+
+</div>  
+  
+
+### <div align="center">I'm Mehmet Ali Demir, an iOS developer 👨‍💻 </div>  
+  
+
+- 🔭 I’m currently working on [Protein iOS Swift Bootcamp](https://github.com/Protein-Swift-Bootcamp)  
+  
+
+- 🌱 I’m currently learning Swift  
+
+
+  
+
+<br/>  
+
+
+## My Skill Set  
+<div align="center">  
+<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="75" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="75" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="75" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
+</div>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
    <a href="https://www.twitter.com/mehmetalidev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
@@ -11,56 +49,33 @@ src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-t
   
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir) 
  
- 
+   
+</div>  
+  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
+<br/>  
 
-# Apps
 
-<table>
-  <tr>
-    <th>Android</th>
-    <th>iOS</th>
-  </tr>
-  <tr>
-    <td><h5> Valo Crosshair </h5>
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.wdemir.valorantr"> 
-<img target="_blank" src="https://play-lh.googleusercontent.com/7Yq8I9ppBz8CbZGq83w0j5-MNq19IdnWK6eEwkShcq7LRp_beACwxnXQ_744hXTnAbjK=w480-h960-rw" , width="120px" height="120px" target="_blank"/>
-</a></td>
-    <td><h5> Valo Crosshair Pro </h5>
-<a target="_blank" href="https://apps.apple.com/us/app/valo-crosshair-pro/id1631537415"> 
-<img target="_blank" src="https://i.imgur.com/uLP6Qrm.jpg" , width="120px" height="120px" target="_blank"/>
-</a></td>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmetalidemir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-  </tr>
-   <tr>
-    <td>
-<h5> Borderly </h5>
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.gopi.wdemir_border"> 
-<img target="_blank" src="https://i.imgur.com/1etylyv.png" , width="120px" height="120px" target="_blank"/></td>
-    <td></td>
+<br/>  
 
-  </tr>
-  </tr>
-   <tr>
-    <td>
-<h5> Useful Apps </h5>
-</a>
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.wdemir.usefulapps"> 
-<img target="_blank" src="https://play-lh.googleusercontent.com/CUiNC_2juHVpq_6kRL5fcsIZuyb0VM40uUS9iPRM0ONC5VAWSGV3SPxjLIny2BVjpUU=w480-h960-rw" , width="120px" height="120px" target="_blank"/>
-</a></td>
-    <td></td>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mehmetalidemir&&style=flat-square" align="center" />
+</div>  
+  
 
-  </tr>
-   <tr>
-    <td>
-</td>
-    <td><h5> Animal Sounds </h5>
-</a>
-<a target="_blank" href="https://apps.apple.com/us/app/animal-sounds-listen-learn/id6444047799"> 
-<img target="_blank" src="https://i.imgur.com/k60V71G.png" , width="120px" height="120px" target="_blank"/>
-</a></td>
+<br/>  
 
-  </tr>
+<div align="center">
+            <a href="https://www.buymeacoffee.com/wdemir" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
-</table>
+----
+
