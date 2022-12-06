@@ -7,9 +7,7 @@ src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-t
 /></a>
 
 
-   <a href="https://www.youtube.com/channel/UCKLI_cuD7AFZKnWRNeTM5BA" target="_blank" rel="noreferrer">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKLI_cuD7AFZKnWRNeTM5BA?&style=for-the-badge&color=FF0000&labelColor=1c1917">
-  </a>
+
   
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir) 
  
