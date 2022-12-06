@@ -1,8 +1,3 @@
-# Hi, I'm Mehmet Ali Demir (:coffee::computer::rocket:)
-
-
-
- 
 
 
 <div align="center">
@@ -13,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Mehmet Ali Demir, an iOS developer 👨‍💻 </div>  
+### <div align="center">I'm Mehmet Ali Demir, an iOS developer :coffee::computer::rocket: </div>  
   
 
 - 🔭 I’m currently working on [Protein iOS Swift Bootcamp](https://github.com/Protein-Swift-Bootcamp)  
