@@ -12,10 +12,10 @@
   
 
 - 🔭 I’m currently working on [Video Game App](https://github.com/mehmetalidemir/VideoGamesApp)  
-  
 
 - 🌱 I’m currently learning Swift  
 
+- 📫 How to reach me: mehmetali@wdemir.tech
 
   
 
