@@ -11,9 +11,7 @@
 ### <div align="center">I'm Mehmet Ali Demir, an iOS developer :coffee::computer::rocket: </div>  
   
 
-- 🔭 I’m currently working on [Video Game App](https://github.com/mehmetalidemir/VideoGamesApp)  
-
-- 🌱 I’m currently learning Swift  
+- 🔭 I’m currently working on iOS app development
 
 - 📫 How to reach me: mehmetali@wdemir.tech
 
