@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on iOS app development
 
-- 📫 How to reach me: mehmetali@wdemir.tech
+- 📫 How to reach me: wdemir@proton.me
 
   
 
