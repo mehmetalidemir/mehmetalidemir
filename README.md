@@ -1,24 +1,17 @@
 
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-   
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
-
-</div>  
-  
-
 ### <div align="center">I'm Mehmet Ali Demir, an iOS developer :coffee::computer::rocket: </div>  
-  
-
+# 
 - 🔭 I’m currently working on iOS app development
 
 - 📫 How to reach me: wdemir@proton.me
 
   
 
-<br/>  
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+   
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
+</div>  
 
 
 ## Connect with me  
