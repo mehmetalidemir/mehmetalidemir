@@ -36,9 +36,10 @@ src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-t
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmetalidemir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidemir&" alt="mehmetalidemir"  align="center" /></div>  
 
 <br/>  
+
 
 
 
@@ -53,5 +54,4 @@ src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-t
             </a></div>
 <br />
 
-----
 
