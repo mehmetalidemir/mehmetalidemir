@@ -14,22 +14,14 @@
 </div>  
 
 
-## Connect with me  
-<div align="center">  
-      <a href="https://medium.com/@mehmetali_demir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-/></a>
-   
-   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir) 
-   
-   
-   <a href="https://www.twitter.com/mehmetalidev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
- 
-   
-</div>  
+<div align="center">
+  
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mehmetali_demir)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir)
+  [![Twitter](https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/mehmetalidev)
+</div>
+
+
   
 
 <br/>  
