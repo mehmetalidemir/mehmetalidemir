@@ -3,7 +3,7 @@
 # 
 - 🔭 I’m currently working on iOS app development
 
-- 📫 How to reach me: wdemir@proton.me
+- 📫 How to reach me: mehmetalidemir99@gmail.com
 
   
 
