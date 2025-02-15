@@ -1,36 +1,25 @@
+![Dynamic Header](https://svg-banners.vercel.app/api?type=rainbow&text1=Mehmet%20Ali%20Demir&width=800&height=200)
 
-### <div align="center">I'm Mehmet Ali Demir, an iOS developer :coffee::computer::rocket: </div>  
-# 
-- 🔭 I’m currently working on iOS app development
+<p align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="50%" alt="Hello!" />
+</p>
 
-- 📫 How to reach me: mehmetalidemir99@gmail.com
+## 🚀 About Me  
+- 🔭 I’m currently working on **iOS app development**  
+- 📫 Reach me at: **mehmetalidemir99@gmail.com**  
 
-  
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://medium.com/@mehmetalidev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://linkedin.com/in/mehmetalidemir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.twitter.com/mehmetalidev"><img src="https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter"></a>
+</p>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-   
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir)
-</div>  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidemir&theme=light" alt="GitHub Streak" />
+</p>
 
-
-<div align="center">
-  
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mehmetalidev)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalidemir)
-  [![Twitter](https://img.shields.io/twitter/follow/mehmetalidev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/mehmetalidev)
-</div>
-
-
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidemir&" alt="mehmetalidemir"  align="center" /></div>  
-
-<br/>  
-
-
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mehmetalidemir" alt="Profile Visitors" />
+</p>
